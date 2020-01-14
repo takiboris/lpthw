@@ -1,0 +1,1 @@
+used to keep track of exercises from Learn Python The Hard Way and continue when using both desktop environments I run. Linux strictly for programming, Windows 10 for gaming.
